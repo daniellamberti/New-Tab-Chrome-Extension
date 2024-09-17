@@ -23,6 +23,7 @@ main {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    height: 100vh;
 }
 
                 /* ------ Top Container: Aligns crypto and weather widgets ------ */
